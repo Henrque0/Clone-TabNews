@@ -1,2 +1,2 @@
-# Clone-TabNews
+# clone-tabnews
 Aprendendo programação com https://curso.dev/
